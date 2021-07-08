@@ -1,9 +1,10 @@
-# frontresuelve
+# Studio Ghibli
 
-## Project setup
+## Configuración del proyecto
 ```
 npm install
 ```
+
 
 ### Compiles and hot-reloads for development
 ```
