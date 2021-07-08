@@ -1,5 +1,5 @@
 <template>
-    <v-app>
+    <v-app id="films">
          <v-app-bar app>
              <v-container>
                  <v-row justify="start" class="row-top">
