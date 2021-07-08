@@ -18,7 +18,9 @@
 
 [Firebase](https://testrtd-353b6.web.app/)
 
-
+El login consume un servicio de autenticación con las siguientes credenciales
+* email: eve.holt@reqres.in
+* password: pistol
 
 ### Configuración del proyecto
 * El primer paso es descargar el cliente de Vue.
