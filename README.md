@@ -8,7 +8,7 @@ Follow the Vue values, I decided use Flux architecture but, the application is v
 
 About the trade-offs, show that the flux architecture is 100% leveraged... Maybe with more time would show the information in the API's inside the Json for each film, example: starring (people API). 
 
-The best part for me...I consider that all the [Filmscomponent](#films)
+The best part for me...I consider that all the [Filmscomponent](#films)<a id="my-anchor"></a>
 
 
 ```
